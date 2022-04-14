@@ -10,7 +10,7 @@ Te invito a conocer mis aprendizajes y leer mis experiencias:
 - 🔹Profundizar y practicar Note Js
 - 🔹Front end y Back end.
 - 🔹Aprender Git y Github
-- 🔹-Entender y tener las bases sólidas de Backend.
-- 🔹-Y lo mejor de todo es compartir HTML, CSS.
+- 🔹Entender y tener las bases sólidas de Backend.
+- 🔹Y lo mejor de todo es compartir HTML, CSS.
 - 
 🚀
