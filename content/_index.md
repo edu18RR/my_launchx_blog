@@ -8,8 +8,11 @@ Hola ✌️  soy el explorer **Eduardo Rosas** y este es mi blog personal donde 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 -Aprender Git y Github.
+
 -Aplicar los conocimientos de front-end.
+
 -Apreder a diseñar backend
+
 -Y lo mejor de todo compartir.
 
 🚀
