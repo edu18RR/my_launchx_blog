@@ -8,4 +8,9 @@ Mis expectativas de la misión son;
 
 Aplicar los conocimientos impartidos por el MC
 
+- Note JS
+- Utilizar Git  y Git Hub
+- Linea de comandos
+- ...en proceso
+
 
