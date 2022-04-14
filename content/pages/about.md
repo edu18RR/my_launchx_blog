@@ -14,6 +14,6 @@ Hola, aquí vas a leer un poco sobre mi 🤩
 > Actualmente estoy formando parte del programa de Launch X
 
 **Cosas aprendidas en front-end y back-end** 
-HTML
-CSS
-Java Script
+HTML<br>
+CSS<br>
+Java Script<br>
