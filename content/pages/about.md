@@ -1,21 +1,19 @@
 ---
-title: 'About me'
+title: 'Edu'
 menu:
   main:
     name: "AboutMe"
 ---
 
-## Who am I
+## Eduardo Rosas Ragnel
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Estudiante Lic. en Ingeniería en Desarrollo de Software y Sistemas Computacionales, programación básica.
+> programación básica.
+> Actualmente estoy formando parte del programa de Launch X
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+**Cosas aprendidas en front-end y back-end** 
+HTML
+CSS
+Java Script
